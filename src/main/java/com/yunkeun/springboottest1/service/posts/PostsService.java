@@ -5,6 +5,7 @@ import com.yunkeun.springboottest1.domain.posts.PostsRepository;
 import com.yunkeun.springboottest1.web.dto.PostsResponseDto;
 import com.yunkeun.springboottest1.web.dto.PostsSaveRequestDto;
 import com.yunkeun.springboottest1.web.dto.PostsUpdateRequestDto;
+
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
